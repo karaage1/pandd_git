@@ -13,5 +13,8 @@ int main() {
 	   printf("%d\n", a + b);
    }
 
-	return 0;
+   if (c=='/'){
+      printf("%d\n",a/b);
+   }
+   return 0;
 }
